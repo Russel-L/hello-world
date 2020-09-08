@@ -1,2 +1,3 @@
 # hello-world
-test
+
+Hello, I am currently a student studying BS Computer Science
